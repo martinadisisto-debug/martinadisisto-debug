@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 **martinadisisto-debug/martinadisisto-debug** this is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on Github...
 - 🌱 I’m currently learning to create a New Special Repository ...
